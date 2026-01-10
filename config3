@@ -10,7 +10,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 🟢 直连
-    url: "https://shz.al/~WangCai"
+    url: "https://url.v1.mk/sub?target=clash&url=https%3A%2F%2F897922.xyz%2F2d8b28c8-4ae8-4a4c-bb45-f3f8aff8a2c8%2Fsub%3Fdomain%3Dge.ajuda.uk.eu.org%26epd%3Dyes%26epi%3Dyes%26egi%3Dyes%26ev%3Dyes%26dkby%3Dyes%26path%3D%252Fw&insert=false&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true"
     override:
       skip-cert-verify: true
       udp: true
