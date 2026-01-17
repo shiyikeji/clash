@@ -10,7 +10,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 🟢 直连
-    url: "https://url.v1.mk/sub?target=clash&url=https%3A%2F%2F897922.xyz%2F82b2bfdd-ce15-6e8e-ab0c-37b9f167b4ab%2Fsub%3Fdomain%3Dhk.lingqiu.eu.org%26epd%3Dyes%26epi%3Dyes%26egi%3Dyes%26ev%3Dyes%26dkby%3Dyes%26path%3D%252Fw&insert=false&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true"
+    url: "https://url.v1.mk/sub?target=clash&url=https%3A%2F%2F897922.xyz%2F1822f681-02d0-6b9e-8ba5-6dbc60bd128b%2Fsub%3Fdomain%3Dhk.lingqiu.eu.org%26epd%3Dyes%26epi%3Dyes%26egi%3Dyes%26ev%3Dyes%26dkby%3Dyes%26path%3D%252Fw&insert=false&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true"
     override:
       skip-cert-verify: true
       udp: true
